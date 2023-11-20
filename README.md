@@ -1,6 +1,5 @@
 # Customer-Churn
 ### Questions tackled:
-* Item1 
 * Which age groups send more SMS messages than make phone calls?
 * Create a plot visualizing the number of distinct phone calls by age group. Within the chart, differentiate between short, medium, and long calls (by the number of seconds).
 *Are there significant differences between the length of phone calls between different tariff plans?
